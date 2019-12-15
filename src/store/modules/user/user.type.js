@@ -1,0 +1,4 @@
+export const USER_SET_TOKEN = "USER_SET_TOKEN";
+export const USER_LOADING_STATE = "USER_LOADING_STATE";
+export const USER_LOGIN = "USER_LOGIN";
+export const USER_LOGOUT = "USER_LOGOUT";
